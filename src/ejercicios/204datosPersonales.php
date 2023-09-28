@@ -16,16 +16,16 @@
     $salida.="<body>
                 <table>
                 <tr>
-                    <td>Nombre</td><td>".$_POST['nombre']."</td>
+                    <td>Nombre</td><td>".$_POST['nombre']."</td><br>
 </tr>
 <tr>
-                    <td>Apellidos</td><td>".$_POST['apellidos']."</td>
+                    <td>Apellidos</td><td>".$_POST['apellidos']."</td><br>
 </tr>
 <tr>
-                    <td>Correo Electrónico</td><td>".$_POST['email']."</td>
+                    <td>Correo Electrónico</td><td>".$_POST['email']."</td><br>
 </tr>
 <tr>
-                    <td>Teléfono</td><td>".$_POST['telefono']."</td>
+                    <td>Teléfono</td><td>".$_POST['telefono']."</td><br>
 </tr>
 <tr>
                     <td>Año Nacimiento</td><td>".$_POST['anyo']."</td>
