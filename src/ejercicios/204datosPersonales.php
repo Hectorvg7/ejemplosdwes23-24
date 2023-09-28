@@ -28,7 +28,7 @@
                     <td>Teléfono</td><td>".$_POST['telefono']."</td><br>
 </tr>
 <tr>
-                    <td>Año Nacimiento</td><td>".$_POST['anyo']."</td>
+                    <td>Año Nacimiento</td><td>".$_POST['anyo']."</td><br>
 </tr>
 </table>
 
