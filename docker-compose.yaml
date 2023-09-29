@@ -1,4 +1,4 @@
-# Services
+  # Services
 services:
   # Apache + PHP
   apache_php:
